@@ -3,7 +3,7 @@
 permalink: /:categories/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter: pygments
+highlighter: rouge
 
 # https://help.github.com/articles/migrating-your-pages-site-from-maruku
 markdown: kramdown
@@ -15,8 +15,8 @@ title : Hannah
 tagline: Portfolio
 author : Hannah
 name : Hannah Notess
-email : blah@email.test
-github : username
+email : hannah@hannahnotess.com
+github : hnotess
 twitter : username
 feedburner : feedname
 
