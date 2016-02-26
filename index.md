@@ -5,7 +5,9 @@ tagline: Assorted coding projects
 ---
 {% include JB/setup %}
 
-Welcome to a few pieces of my coding journey. As I experiment and create more, this site will contain more projects. In the meantime, you're welcome to check out my [LinkedIn profile](https://www.linkedin.com/in/hannahnotess) to learn more about me and my work.
+Welcome to a few pieces of my coding journey. 
+
+As I experiment and create more, this site will contain more projects. In the meantime, you're welcome to check out my [LinkedIn profile](https://www.linkedin.com/in/hannahnotess) or my [personal website](http://hannahnotess.com) to learn more about me and my work.
 
 
 <ul class="posts">
