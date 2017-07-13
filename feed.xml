@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hannah Notess</title>
+    <description>Seattle-based JavaScript developer
+</description>
+    <link>https://hnotess.github.io/</link>
+    <atom:link href="https://hnotess.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 13 Jul 2017 15:27:59 -0700</pubDate>
+    <lastBuildDate>Thu, 13 Jul 2017 15:27:59 -0700</lastBuildDate>
+    <generator>Jekyll v3.5.0</generator>
+    
+      <item>
+        <title>Mindful Reader</title>
+        <description>
+</description>
+        <pubDate>Mon, 12 Jun 2017 00:00:00 -0700</pubDate>
+        <link>https://hnotess.github.io/web%20development/2017/06/12/project-2/</link>
+        <guid isPermaLink="true">https://hnotess.github.io/web%20development/2017/06/12/project-2/</guid>
+        
+        
+        <category>Web development</category>
+        
+      </item>
+    
+      <item>
+        <title>University Calendar</title>
+        <description>
+</description>
+        <pubDate>Wed, 10 May 2017 00:00:00 -0700</pubDate>
+        <link>https://hnotess.github.io/web%20development/2017/05/10/project-3/</link>
+        <guid isPermaLink="true">https://hnotess.github.io/web%20development/2017/05/10/project-3/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Isabel Bloom</title>
+        <description>
+</description>
+        <pubDate>Sun, 30 Apr 2017 00:00:00 -0700</pubDate>
+        <link>https://hnotess.github.io/content%20strategy,%20design/2017/04/30/project-4/</link>
+        <guid isPermaLink="true">https://hnotess.github.io/content%20strategy,%20design/2017/04/30/project-4/</guid>
+        
+        
+        <category>Content strategy, design</category>
+        
+      </item>
+    
+      <item>
+        <title>Quiz Builder</title>
+        <description>
+</description>
+        <pubDate>Wed, 15 Mar 2017 00:00:00 -0700</pubDate>
+        <link>https://hnotess.github.io/web%20development/2017/03/15/project-1/</link>
+        <guid isPermaLink="true">https://hnotess.github.io/web%20development/2017/03/15/project-1/</guid>
+        
+        
+        <category>Web development</category>
+        
+      </item>
+    
+      <item>
+        <title>Response magazine</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Mar 2017 00:00:00 -0800</pubDate>
+        <link>https://hnotess.github.io/writing,%20editing,%20content%20strategy,%20project%20management/2017/03/01/project-5/</link>
+        <guid isPermaLink="true">https://hnotess.github.io/writing,%20editing,%20content%20strategy,%20project%20management/2017/03/01/project-5/</guid>
+        
+        
+        <category>Writing, editing, content strategy, project management</category>
+        
+      </item>
+    
+      <item>
+        <title>Personal website</title>
+        <description>
+</description>
+        <pubDate>Wed, 15 Feb 2012 00:00:00 -0800</pubDate>
+        <link>https://hnotess.github.io/wordpress%20admin/2012/02/15/project-6/</link>
+        <guid isPermaLink="true">https://hnotess.github.io/wordpress%20admin/2012/02/15/project-6/</guid>
+        
+        
+        <category>Wordpress admin</category>
+        
+      </item>
+    
+  </channel>
+</rss>
